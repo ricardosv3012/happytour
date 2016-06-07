@@ -1,0 +1,4 @@
+idcategory,parent_id,idtype,idpage,section,name_es,name_en,name_ru
+1,NULL,NULL,NULL,MENU,Inicio,Home,дом
+2,NULL,NULL,NULL,MENU,Servicios,Services,Услуги
+3,NULL,NULL,NULL,MENU,Noticias,News,Новости
